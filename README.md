@@ -1,5 +1,5 @@
 # React COVID Tracker
-Track corona virus cases
+Track corona virus cases <br />
 Link: (https://covid19worldcases-tracker.netlify.app/)
 
 ## Available Scripts

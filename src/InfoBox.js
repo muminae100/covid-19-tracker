@@ -20,7 +20,7 @@ function InfoBox({ title, cases, total, active, isRed, ...props }) {
         </h2>
 
         <Typography className="infoBox__total" color="textSecondary">
-          {total} Total
+          <span style={{"fontSize":"20px","fontWeight":"800"}}>Total: {total}</span> 
         </Typography>
       </CardContent>
     </Card>

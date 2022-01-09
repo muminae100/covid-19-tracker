@@ -116,6 +116,7 @@ const App = () => {
             total={numeral(countryInfo.deaths).format("0.0a")}
           />
         </div>
+        <p style={{"padding":"10px"}}>Click boxes above to check on map and graph.</p>
         <Map
           countries={mapCountries}
           casesType={casesType}
